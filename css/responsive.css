@@ -1,0 +1,80 @@
+
+@media only screen and (max-width: 990px) {
+    
+    .navbar {
+        height: 7.32rem;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .p-top {
+        margin-top: 2.3rem;
+        padding-left: 1.8rem;
+    }
+    .mobile-pad{
+        padding-left: 1.7rem;
+    }
+    .content {
+        padding-left: 0.3rem;
+        margin-bottom: 3rem;
+        margin-right:3rem;
+    }    
+    .nav-link {
+        color: black !important;
+    }
+    .travel-div {
+        padding-left: 35px;
+        padding-right: 60px;
+    }
+    .description2{
+        padding-left:2rem;
+        margin-top:2rem;
+    }
+    .sports-info {
+        padding-bottom: 2.5rem;
+    }
+    
+    .faq {
+        padding-left: 2rem;
+    }
+    .quest-ans-div {
+        padding-left: 15px;
+    }
+    .general {
+        padding-left: 2rem;
+    }
+    .lineheight {
+        line-height: 22px;
+    }
+    .foot-bottom{
+        padding-bottom:2rem;
+    }
+    .show{
+        width:13rem !important;
+        padding-left: 15px;
+
+    }
+    
+    #sidenavmenu{
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 999;
+        top: 0;
+        right: 0;
+        background-color: #ffffff;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 35px;   
+    }
+    .navbar-nav {
+        margin-top: 3rem;
+        text-align: end;
+    }
+    
+    #nav-btn2{
+        width:33%;
+    }
+    .navbar-brand {
+        width: 33%;
+    }
+}
